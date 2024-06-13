@@ -1,3 +1,4 @@
 # postgrado-full-stack-v5
 
-Adhemar Duran Gahuincha
+Adhemar Duran Gahuincha 
+Freddy Mendoza Martinez
