@@ -1,3 +1,3 @@
 # postgrado-full-stack-v5
 
-Adhemar Duran Gahuincha
+Ana Paola Peredo Barrientos
