@@ -1,3 +1,4 @@
 # postgrado-full-stack-v5
 
-Adhemar Duran Gahuincha
+ARIEL ROYMER GABRIEL TICONA
+
